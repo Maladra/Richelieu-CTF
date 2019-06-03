@@ -36,15 +36,15 @@ fo.close()
 5) En faisant un `strings` sur l'image l'on trouve quelques informations intéressantes : 
 
 `
-.bash_historyUT  
-Le mot de passePK  
-suite.zipUT  
-de cette archivePK  
-prime.txtUT  
-est : DGSE{t.D=@Bx^A%n9FQB~_VL7Zn8z=:K^4ikE=j0EGHqI}PK  
-public.keyUT  
-motDePasseGPG.txt.encUT  
-lsb_RGB.png.encUT  
+.bash_historyUT\s\s
+Le mot de passePK\s\s
+suite.zipUT\s\s
+de cette archivePK\s\s
+prime.txtUT\s\s
+est : DGSE{t.D=@Bx^A%n9FQB~_VL7Zn8z=:K^4ikE=j0EGHqI}PK\s\s
+public.keyUT\s\s
+motDePasseGPG.txt.encUT\s\s
+lsb_RGB.png.encUT\s\s
 `
 
 
