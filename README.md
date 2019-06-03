@@ -35,17 +35,17 @@ fo.close()
 
 5) En faisant un `strings` sur l'image l'on trouve quelques informations intéressantes : 
 
-`
-.bash_historyUT
-Le mot de passePK
-suite.zipUT
-de cette archivePK
-prime.txtUT
-est : DGSE{t.D=@Bx^A%n9FQB~_VL7Zn8z=:K^4ikE=j0EGHqI}PK
-public.keyUT
-motDePasseGPG.txt.encUT
+```
+.bash_historyUT  
+Le mot de passePK  
+suite.zipUT  
+de cette archivePK  
+prime.txtUT  
+est : DGSE{t.D=@Bx^A%n9FQB~_VL7Zn8z=:K^4ikE=j0EGHqI}PK  
+public.keyUT  
+motDePasseGPG.txt.encUT  
 lsb_RGB.png.encUT
-`
+```
 
 
 6) Utiliser le tool Binwalk pour extraire les données de l'image `binwalk -e clear_file`, nous obtenons un dossier `_clear_file.extracted` contenent 6 fichiers: 
