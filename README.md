@@ -33,7 +33,7 @@ fo.close()
 
 4 ) A partir du fichier obtenu précedemment supprimer les premieres lignes, pour conserver uniquement le reste qui est codé en Base64, a partir de la nous obtenons une image 
 
-![Image obtenue](https://github.com/Maladra/Richelieu-CTF/blob/master/images/clear_file =100x20)
+<img src="https://github.com/Maladra/Richelieu-CTF/blob/master/images/clear_file width="50">
 
 
 5) En faisant un `strings` sur l'image l'on trouve quelques informations intéressantes : 
